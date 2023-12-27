@@ -6,3 +6,6 @@
 
 
 [Cybersecurity incident report.pdf](https://github.com/KalaniIbarra/Documenting-incidents/files/13775518/Cybersecurity.incident.report.pdf)
+
+
+[Cybersecurity incident report network traffic analysis.pdf](https://github.com/KalaniIbarra/Documenting-incidents/files/13775522/Cybersecurity.incident.report.network.traffic.analysis.pdf)
